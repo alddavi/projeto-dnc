@@ -29,6 +29,7 @@
 #menuinformacional{
     margin: 5px 5px 5px 5px;
     display: grid;
+    background-color: #ffffffbb;
     grid-auto-flow: column;
     padding: 1px;
 }
